@@ -1,12 +1,12 @@
 spring:
   application:
-    name: crud-example-morsa
+    name: crud-computadora
 
 datasource:
   my-connection:
-    jdbc-url: jdbc:mysql://localhost:3306/TallerCR?useSSL=false
-    username: root
-    password: Altair306M
-    maximunm-pool-size: 10
+    jdbc-url: jdbc:oracle:thin:@localhost:1521:SID
+    username: AVARGAS
+    password: Altair3062002
+    maximum-pool-size: 10
     pool-name: "crud-pool"
     auto-commit: true

@@ -6,6 +6,10 @@
   <component name="ChangeListManager">
     <list default="true" id="0c267970-7687-4b39-8e92-e7348bb6e815" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/proyecto/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/proyecto/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/proyecto/src/main/java/com/proyectoBases2/proyecto/Controllers/ClienteController.java" beforeDir="false" afterPath="$PROJECT_DIR$/proyecto/src/main/java/com/proyectoBases2/proyecto/Controllers/ClienteController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/proyecto/src/main/java/com/proyectoBases2/proyecto/Dao/ClienteDao.java" beforeDir="false" afterPath="$PROJECT_DIR$/proyecto/src/main/java/com/proyectoBases2/proyecto/Dao/ClienteDao.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/proyecto/src/main/resources/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/proyecto/src/main/resources/application.properties" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/proyecto/src/main/resources/application.yml" beforeDir="false" afterPath="$PROJECT_DIR$/proyecto/src/main/resources/application.yml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />

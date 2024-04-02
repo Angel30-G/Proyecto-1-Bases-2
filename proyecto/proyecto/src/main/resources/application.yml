@@ -1,6 +1,6 @@
 spring:
   application:
-    name: crud-computadora
+    name: proyecto
 
 datasource:
   my-connection:

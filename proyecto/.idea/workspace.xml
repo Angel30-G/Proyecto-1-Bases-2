@@ -9,8 +9,7 @@
       <change beforePath="$PROJECT_DIR$/proyecto/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/proyecto/pom.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/proyecto/src/main/java/com/proyectoBases2/proyecto/Controllers/ClienteController.java" beforeDir="false" afterPath="$PROJECT_DIR$/proyecto/src/main/java/com/proyectoBases2/proyecto/Controllers/ClienteController.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/proyecto/src/main/java/com/proyectoBases2/proyecto/Dao/ClienteDao.java" beforeDir="false" afterPath="$PROJECT_DIR$/proyecto/src/main/java/com/proyectoBases2/proyecto/Dao/ClienteDao.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/proyecto/src/main/resources/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/proyecto/src/main/resources/application.properties" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/proyecto/src/main/resources/application.yml" beforeDir="false" afterPath="$PROJECT_DIR$/proyecto/src/main/resources/application.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/proyecto/src/main/java/com/proyectoBases2/proyecto/models/Cliente.java" beforeDir="false" afterPath="$PROJECT_DIR$/proyecto/src/main/java/com/proyectoBases2/proyecto/models/Cliente.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
